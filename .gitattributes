@@ -1,1 +1,9 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+2026-02-05[[:space:]]AGLDWG[[:space:]]Monthly[[:space:]]plenary[[:space:]]meeting.mp4 filter=lfs diff=lfs merge=lfs -text
+2026-03-05[[:space:]]AGLDWG[[:space:]]Monthly[[:space:]]plenary[[:space:]]meeting.mp4 filter=lfs diff=lfs merge=lfs -text
+2026-03-19[[:space:]]AGLDWG[[:space:]]March[[:space:]]Bonus[[:space:]]Presentations.mp4 filter=lfs diff=lfs merge=lfs -text
+2026-05-07[[:space:]]Monthly[[:space:]]Plenary[[:space:]]and[[:space:]]Eero[[:space:]]Hyvönen.mp4 filter=lfs diff=lfs merge=lfs -text
+2026-06-04[[:space:]]AGLDWG[[:space:]]Alex[[:space:]]Jouravlev.mp4 filter=lfs diff=lfs merge=lfs -text
+2026-06-04[[:space:]]AGLDWG[[:space:]]Anushka[[:space:]]Vidanage.mp4 filter=lfs diff=lfs merge=lfs -text
+2025-08-07[[:space:]]AGLDWG[[:space:]]Monthly[[:space:]]plenary[[:space:]]meeting[[:space:]]and[[:space:]]update.mp4 filter=lfs diff=lfs merge=lfs -text
+2025-11-06[[:space:]]AGLDWG[[:space:]]Monthly[[:space:]]plenary[[:space:]]meeting[[:space:]]and[[:space:]]StructureGovAu.mp4 filter=lfs diff=lfs merge=lfs -text
